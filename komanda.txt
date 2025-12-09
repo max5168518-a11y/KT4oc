@@ -1,1 +1,2 @@
 Atamanenko Maxim
+Изменение для проверки Git
